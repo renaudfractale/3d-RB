@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>logo_qt.png</file>
+        <file>main.cpp</file>
+        <file>NCamera.png</file>
+        <file>OneCamera.png</file>
+        <file>TwoCamera.png</file>
+        <file>NSubject.png</file>
+        <file>OneSubject.png</file>
+    </qresource>
+</RCC>
