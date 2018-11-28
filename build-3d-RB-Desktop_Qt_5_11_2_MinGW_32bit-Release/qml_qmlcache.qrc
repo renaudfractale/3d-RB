@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<RCC>
+    <qresource prefix="/">
+        <file alias="logo_qt.png">../current/3d-RB/logo_qt.png</file>
+        <file alias="main.cpp">../current/3d-RB/main.cpp</file>
+        <file alias="NCamera.png">../current/3d-RB/NCamera.png</file>
+        <file alias="OneCamera.png">../current/3d-RB/OneCamera.png</file>
+        <file alias="TwoCamera.png">../current/3d-RB/TwoCamera.png</file>
+        <file alias="NSubject.png">../current/3d-RB/NSubject.png</file>
+        <file alias="OneSubject.png">../current/3d-RB/OneSubject.png</file>
+    </qresource>
+</RCC>
